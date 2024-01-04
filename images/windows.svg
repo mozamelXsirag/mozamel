@@ -1,0 +1,6 @@
+<svg id="windows" xmlns="http://www.w3.org/2000/svg" width="32.005" height="32.005" viewBox="0 0 32.005 32.005">
+  <path id="rect65" d="M0,0H15.454V15.454H0Z" fill="#5221e6"/>
+  <path id="rect165" d="M12.411,15.454V0H27.865V15.454Z" transform="translate(4.139)" fill="#5221e6"/>
+  <path id="rect413" d="M0,12.411H15.454V27.865H0Z" transform="translate(0 4.139)" fill="#5221e6"/>
+  <path id="rect415" d="M12.411,27.865V12.411H27.865V27.865Z" transform="translate(4.139 4.139)" fill="#5221e6"/>
+</svg>
